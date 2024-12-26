@@ -6,6 +6,8 @@ People: is he saying (we should support russia | saying we are helping him fight
 
 Mathematica: You need to cover it up with BitMasks.
 
+Me: Stencils.
+
 # Micro means 10^-6. PERIOD.
 
 nano is o(10^-9).  femt is o(10^

@@ -174,6 +174,8 @@ Criticism and Controversy
 
 Has been criticized for his abrasive communication style.
 Has been involved in several public controversies.
+
+# Do you work for Linux or your employee's
 Has been accused of being arrogant and dismissive.
 However, he has also been praised for his honesty and directness.
 **

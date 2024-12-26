@@ -19,3 +19,5 @@ it is realized to have some common base already and if you want to define your s
 Why did high school teach people to think an answer is just an answer?
 
 (also RTOS kernels are there too. Linux kernel is not the silver bullet)
+
+# Linus is working in a remote-slavery industry
